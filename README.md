@@ -9,9 +9,9 @@ Bu repo Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet 
 ---
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığıonız link gelecek
 
-'
+"
 git clone https://github.com/esrakaracan/kodluyoruzilkrepo
-'
+"
 
 
 ## Usage
