@@ -9,11 +9,11 @@ Bu repo Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet 
 ---
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığıonız link gelecek
 
-'''
+```
 {
 git clone https://github.com/esrakaracan/kodluyoruzilkrepo
 }
-'''
+```
 
 
 ## Usage
@@ -22,10 +22,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 ---
